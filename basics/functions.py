@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
-__author__ = 'zhaotongkp#163.com'
+__author__ = 'pietertong'
 
 import common.config
 import redis

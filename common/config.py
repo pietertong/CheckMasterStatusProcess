@@ -1,4 +1,4 @@
-__author__ = 'zhaotongkp#163.com'
+__author__ = 'pietertong'
 
 sqlServerConfig = {
     "localhost" : {
